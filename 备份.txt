@@ -1,6 +1,5 @@
 <!-- 消息提示圆点
 
-
             <TextView
                 android:id="@+id/tvYueYingIndicator"
                 android:layout_width="9dp"
